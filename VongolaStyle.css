@@ -1,0 +1,145 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+margin: 0;
+padding: 0;
+color: white;
+overflow-x: hidden;
+
+}
+
+header {
+background-color: rgb(20, 16, 16);
+padding-top: 10px;
+position: fixed;
+width: 100%;
+
+
+   
+}
+
+header ul li{
+display: inline;
+padding: 20px;
+padding-bottom: 1cm;
+float: right;
+
+}
+
+header ul{ margin-right: 2cm;}
+
+header ul img{
+    padding-left: 2cm;
+    padding-right: 1cm;
+
+}
+
+header ul li a{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+
+.body1{
+    padding-top: 3cm;
+    height: 100vh;
+    background-color: rgb(33, 30, 30);
+   width: 100%;
+}
+
+.vong{
+    padding: 10px;
+    text-align: center;
+}
+
+.body1  img{
+    margin-left: 1cm;
+    margin-right: 1cm;
+    border-radius: 10px;
+    border: 2px solid white;
+
+}
+
+.body2{
+    height: 100vh;
+    background-color: rgb(33, 30, 30);
+  width: 100%;
+
+}
+
+
+
+.body2 h1{text-align: center;
+
+    padding: 40px;
+}
+
+
+.body2 img{
+   
+   margin-left: 3.3cm ;
+   border-radius: 10px;
+   border: 2px solid white;
+ 
+  
+}
+
+.body3{
+    background-color: rgb(33, 30, 30);
+}
+
+.manager{
+text-align: center;
+padding: 40px;
+font-weight: bold;
+
+}
+
+.body3 .madam{
+    margin-left: 37%;
+    margin-right: 35%;
+    border: 3px solid skyblue;
+    border-radius: 10px;
+}
+
+.talents{
+    text-align: center;
+    padding: 40px;
+    font-weight: bold;
+}
+
+.uhog{ margin-left: 41%;
+    margin-right: 40%;
+    border: 3px solid skyblue;
+    border-radius: 10px;}
+
+
+
+footer{
+  
+    background-color: rgb(33, 30, 30);
+    height: 40vh;
+}
+
+.col1{
+    float: left;
+    padding-left: 1cm;
+    padding-top: 1cm;
+}
+
+.col2{float: right;
+padding-right: 5cm;
+padding-top: 2cm;}
+
+.col2 h4{
+    padding: 10px;
+}
+
+.col2 h4 a{
+    text-decoration: none;
+}
+
+.fa-brands:hover{background-color: rgb(228, 181, 181);
+border-radius: 50%;}
+
